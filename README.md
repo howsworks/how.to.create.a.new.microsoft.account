@@ -1,6 +1,6 @@
 # How to create a new microsoft account?
 
-[![how to create a new microsoft account](red2.png)](https://github.com/howsworks/how.to.create.a.new.microsoft.account)
+[![how to create a new microsoft account](red2.png)](https://computersolve.com/how-to-create-a-new-microsoft-account/)
 
 
 Are you looking to create a Microsoft account with Gmail but don’t know where to start? We’ve got you covered. You can be up and running with a new account in just a few quick steps.
